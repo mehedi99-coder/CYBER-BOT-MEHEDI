@@ -127,7 +127,7 @@
     "ghép": {
         "APIKEY": "nhatdepzaivl"
     },
-    "adminOnly": true,
+    "adminOnly": false,
     "cavevip": {
         "cooldownTime": 1200000
     },
